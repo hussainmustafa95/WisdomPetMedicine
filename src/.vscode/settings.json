@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.autoDetectColorScheme": false,
+    "problems.decorations.enabled": true,
+    "problems.showCurrentInStatus": false
+}
